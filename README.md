@@ -1,9 +1,9 @@
 
 ## Hi, I'm Hakan 👋
 
-- 🚀 A passionate **Junior Front-End Developer** specializing in **Next.js** and **React**.<br/>
-- 👨‍💻 Studying **Software Engineering** at the **Technical University of Varna**.
-- 🔭 I'm eager to learn new technologies, contribute to exciting projects, and grow in professional environments.
+- 🚀 Passionate **Junior Front-End Developer** specializing in **Next.js** and **React**.
+- 🎓 Currently studying **Software Engineering** at the **Technical University of Varna**.
+- 🔭 Eager to explore new technologies, contribute to exciting projects, and grow in professional environments.
 
  ## 💻  Tech Stack
 
