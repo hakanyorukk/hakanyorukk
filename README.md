@@ -2,7 +2,7 @@
 ## Hi, I'm Hakan 👋
 
 - 🚀 **Junior Front-End Developer**.
-- 🎓 Currently studying **Software Engineering** at the **Technical University of Varna**.
+- 🎓 Currently studying **Software and Internet Technologies** at the **Technical University of Varna**.
 - 🔭 Eager to explore new technologies, contribute to exciting projects, and grow in professional environments.
 
  ## 💻  Tech Stack
