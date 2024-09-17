@@ -4,6 +4,7 @@
 - 🚀 **Junior Front-End Developer**.
 - 🎓 Currently studying **Software and Internet Technologies** at the **Technical University of Varna**.
 - 🔭 Eager to explore new technologies, contribute to exciting projects, and grow in professional environments.
+- ✨ **Check out my portfolio: www.omerhakanyoruk.me**
 
  ## 💻  Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
