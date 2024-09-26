@@ -1,7 +1,6 @@
 
 ## Hi, I'm Hakan 👋
 
-- 🚀 **Junior Front-End Developer**.
 - 🎓 Currently studying **Software and Internet Technologies** at the **Technical University of Varna**.
 - 💼 Open to job opportunities and collaborations.
 - ✨ **Check out my portfolio: www.omerhakanyoruk.me**
